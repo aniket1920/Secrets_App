@@ -8,7 +8,6 @@ A full-stack web application that enables users to anonymously share and view se
 - OAuth 2.0 authentication using Google
 - Session-based authentication using Passport.js
 - Secure password storage with hashing (bcrypt)
-- MongoDB integration for persistent storage
 - Environment variable management using `.env` file
 - Route protection for authenticated content
 - Responsive frontend using EJS templating and Bootstrap
